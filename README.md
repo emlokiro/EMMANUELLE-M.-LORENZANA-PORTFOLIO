@@ -1,2 +1,4 @@
 # EMMANUELLE-M.-LORENZANA-PORTFOLIO
-My Portfolio
+#index.html
+#script.js
+#styles.css
